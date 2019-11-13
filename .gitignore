@@ -1,0 +1,19 @@
+# configs
+
+/app/Config/api.ini
+/app/Config/db.ini
+/.env
+/app/CronTasks/config.php
+
+# logs
+/app/CronTasks/logs
+/app/Logs
+
+# dep
+/deploy*
+/gt_deploy*
+/vd_deploy*
+
+/vendor
+/app/Storage/*
+/core
